@@ -1,3 +1,4 @@
+![Alt Text](load.svg)
 ### Hi there 👋
 
 <!--
