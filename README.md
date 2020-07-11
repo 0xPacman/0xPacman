@@ -5,7 +5,7 @@
 
 > ### "Programming isn’t about what you know; it’s about what you can figure out.”
 
-- 🌱 I’m currently learning <img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"  />
+- 🌱 I’m currently learning<img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"/>
 <!--
 **ahmed0x7ce/ahmed0x7ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
