@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed0x7ce/ahmed0x7ce/master/load.svg" alt="loading..." />
+  <img src="https://thumbs.gfycat.com/WellmadeSimpleAlpaca-size_restricted.gif" alt="loading..." />
 </p>
 
 
