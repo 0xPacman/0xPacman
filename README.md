@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahmed0x7ce/ahmed0x7ce/blob/master/trans.gif" alt="loading..." />
+  <img src="https://i.imgur.com/VOT2Uvb.gif" alt="loading..." />
 </p>
 
 
