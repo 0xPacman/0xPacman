@@ -9,10 +9,12 @@
 [![](https://img.shields.io/badge/Shell-Exprianced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
 [![](https://img.shields.io/badge/C-Amateur-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
 [![](https://img.shields.io/badge/C++-Noob-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
-[![](https://img.shields.io/badge/Haskell-SuperNoob-BA55D3?style=flat&logo=Haskell)](https://www.haskell.org/)
+[![](https://img.shields.io/badge/Rust-SuperNoob-0A0904?style=flat&logo=Rust)](https://www.rust-lang.org/)
+
 
 #### Editor&IDE
 [![](https://img.shields.io/badge/Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+
 
 #### Status
 - ✍️ I’m currently learning<img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"/>
