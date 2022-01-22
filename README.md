@@ -5,6 +5,9 @@
 
 > ### "Programming isn’t about what you know; it’s about what you can figure out.”
 
+### Github Profile Details
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xPacman&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+
 ### Language
 [![](https://img.shields.io/badge/Shell-Exprianced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
 [![](https://img.shields.io/badge/C-Amateur-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
@@ -20,5 +23,5 @@
 - ✍️ I’m currently learning<img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"/>
 
 <!-- #### 1337 Profile
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=ahjadani)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=ahjadani)](1337.ma)
 -->
