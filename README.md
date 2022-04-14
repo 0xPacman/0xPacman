@@ -23,5 +23,5 @@
 - ✍️ I’m currently learning<img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"/>
 
 <!-- #### 1337 Profile
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=ahjadani)](1337.ma)
+[![ahjadani's 42 stats](https://badge.mediaplus.ma/black/ahjadani)](https://github.com/oakoudad/badge42)
 -->
