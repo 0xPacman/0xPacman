@@ -17,6 +17,7 @@
 
 #### Editor&IDE
 [![](https://img.shields.io/badge/Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![](https://img.shields.io/badge/Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://www.gnu.org/software/emacs/)
 
 
 #### Status
@@ -24,4 +25,8 @@
 
 <!-- #### 1337 Profile
 [![ahjadani's 42 stats](https://badge.mediaplus.ma/black/ahjadani)](https://github.com/oakoudad/badge42)
+-->
+
+<!-- #### Discord profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/614445495384801290)](https://discord.com/users/614445495384801290)
 -->
