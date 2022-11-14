@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/Shell-Exprianced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
 [![](https://img.shields.io/badge/C-Amateur-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
 [![](https://img.shields.io/badge/C++-Noob-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
-[![](https://img.shields.io/badge/Rust-SuperNoob-0A0904?style=flat&logo=Rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/Python-Amateur-F0F8FF?style=flat&logo=Python)](https://www.python.org/)
 
 
 #### Editor&IDE
