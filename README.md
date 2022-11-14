@@ -12,12 +12,16 @@
 [![](https://img.shields.io/badge/Shell-Exprianced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
 
 [![](https://img.shields.io/badge/C-Amateur-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
-[![](https://img.shields.io/badge/C++-Noob-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
+
 [![](https://img.shields.io/badge/Python-Amateur-F0F8FF?style=flat&logo=Python)](https://www.python.org/)
+
+[![](https://img.shields.io/badge/C++-Noob-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
+
 
 
 #### Editor&IDE
 [![](https://img.shields.io/badge/CLI%20Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+
 [![](https://img.shields.io/badge/GUI%20Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://www.gnu.org/software/emacs/)
 
 
