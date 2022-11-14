@@ -16,8 +16,8 @@
 
 
 #### Editor&IDE
-[![](https://img.shields.io/badge/CLI Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![](https://img.shields.io/badge/GUI Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![](https://img.shields.io/badge/CLI-Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![](https://img.shields.io/badge/GUI-Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://www.gnu.org/software/emacs/)
 
 
 #### Status
