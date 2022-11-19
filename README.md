@@ -11,7 +11,7 @@
 ### Language
 [![](https://img.shields.io/badge/Shell-Exprianced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
 
-[![](https://img.shields.io/badge/C-Amateur-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
+[![](https://img.shields.io/badge/C-Exprianced-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
 
 [![](https://img.shields.io/badge/Python-Amateur-F0F8FF?style=flat&logo=Python)](https://www.python.org/)
 
