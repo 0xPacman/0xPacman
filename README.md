@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Cloud-OCI-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
+![](https://img.shields.io/badge/OpenStack?style=flat&logo=openstack&logoColor=white&color=F80000)
 
 
 #### Editor&IDE
