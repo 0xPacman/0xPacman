@@ -14,10 +14,10 @@
 [![](https://img.shields.io/badge/C++-Exprianced-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![](https://img.shields.io/badge/Python-Amateur-F0F8FF?style=flat&logo=Python)](https://www.python.org/)
 
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Cloud-OCI-informational?style=flat&logo=oracle&logoColor=white&color=F80000)
-![](https://img.shields.io/badge/Cloud-Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white&color=F80000)
+[![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=FF9900)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/Cloud-OCI-informational?style=flat&logo=oracle&logoColor=white&color=F80000)](https://www.oracle.com/cloud/)
+[![](https://img.shields.io/badge/Cloud-Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white&color=F80000)](https://www.openstack.org/)
 
 
 #### Editor&IDE
