@@ -26,7 +26,7 @@
 
 
 #### Status
-- ✍️ I’m currently learning<img src="https://i.ya-webdesign.com/images/pointer-transparent-blinking-11.gif" width="20"/>
+- ✍️ I’m currently learning
 
 <!-- #### 1337 Profile
 [![ahjadani's 42 stats](https://badge.mediaplus.ma/black/ahjadani)](https://github.com/oakoudad/badge42)
