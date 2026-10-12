@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@702668ded64f3514754f79ea7dca89518948f628/assets/terminal-banner.svg" width="1200" alt="0xPacman — Ahmed, Cloud Engineer. From system calls to cloud scale. Systems, cloud, automation." />
+  <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@bc0b8e59ef15ec239a1eb7f10ec4499fb076cdd3/assets/terminal-banner.svg" width="1200" alt="0xPacman — Ahmed, Cloud Infrastructure Engineer based in Casablanca, Morocco. From system calls to cloud scale. Systems, cloud, automation." />
 </p>
 
 <p align="center">
@@ -10,13 +10,17 @@
   <a href="#current-quests">Current quests</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xPacman&amp;label=Profile%20views&amp;color=ffd43b&amp;style=flat" alt="0xPacman profile views" />
+</p>
+
 ## `~/about`
 
 <table>
   <tr>
     <td width="65%" valign="middle">
       <h3>Hey, I'm Ahmed.</h3>
-      <p>Cloud Engineer at <strong>Atlas Cloud Services</strong>, based in <strong>Benguerir, Morocco</strong> 🇲🇦.</p>
+      <p>Cloud Infrastructure Engineer based in <strong>Casablanca, Morocco</strong> 🇲🇦.</p>
       <p>I work across systems programming and cloud infrastructure: understanding what happens close to the metal, then using that knowledge to deploy, optimize, and scale cloud services.</p>
       <p><code>low-level curiosity → cloud-scale thinking</code></p>
     </td>
