@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-banner.svg" width="1200" alt="0xPacman — Ahmed, Cloud Engineer. From system calls to cloud scale. Systems, cloud, automation." />
+  <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@702668ded64f3514754f79ea7dca89518948f628/assets/terminal-banner.svg" width="1200" alt="0xPacman — Ahmed, Cloud Engineer. From system calls to cloud scale. Systems, cloud, automation." />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
       <p><code>low-level curiosity → cloud-scale thinking</code></p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="./spin.gif" width="280" alt="Animated rotating galaxy made of ASCII characters" />
+      <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@702668ded64f3514754f79ea7dca89518948f628/spin.gif" width="280" alt="Animated rotating galaxy made of ASCII characters" />
       <br />
       <sub>Stay curious. Keep building.</sub>
     </td>
