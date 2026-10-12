@@ -1,64 +1,64 @@
 <p align="center">
-  <img src="https://github.com/0xPacman/0xPacman/blob/master/spin.gif" alt="loading..." />
+  <img src="./assets/terminal-banner.svg" width="1200" alt="0xPacman — Ahmed, Cloud Engineer. From system calls to cloud scale. Systems, cloud, automation." />
 </p>
 
-> ### "Programming isn’t about what you know; it’s about what you can figure out."
-
----
-
-## 👋 About Me
-
-Hi there! I'm Ahmed, a Cloud Engineer at **Atlas Cloud Services** based in **Benguerir, Morocco** 🇲🇦. With a strong foundation in systems programming and infrastructure, I'm passionate about bridging the gap between low-level performance and scalable cloud-native architecture. My day-to-day work revolves around deploying, optimizing, and expanding cloud services.
-
----
-
-## 💻 Github Profile Summary
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xPacman&theme=github_dark" alt="0xPacman Profile" />
+  <a href="https://github.com/0xPacman?tab=repositories">Explore my repositories</a>
+  &nbsp; / &nbsp;
+  <a href="#stack">The stack</a>
+  &nbsp; / &nbsp;
+  <a href="#current-quests">Current quests</a>
 </p>
 
+## `~/about`
+
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Hey, I'm Ahmed.</h3>
+      <p>Cloud Engineer at <strong>Atlas Cloud Services</strong>, based in <strong>Benguerir, Morocco</strong> 🇲🇦.</p>
+      <p>I work across systems programming and cloud infrastructure: understanding what happens close to the metal, then using that knowledge to deploy, optimize, and scale cloud services.</p>
+      <p><code>low-level curiosity → cloud-scale thinking</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./spin.gif" width="280" alt="Animated rotating galaxy made of ASCII characters" />
+      <br />
+      <sub>Stay curious. Keep building.</sub>
+    </td>
+  </tr>
+</table>
+
+## `~/stack`
+
+| Layer | Tools & technologies |
+| :--- | :--- |
+| **Languages** | `C` · `C++` · `Shell` · `Python` |
+| **Cloud** | `AWS` · `Google Cloud` · `Oracle Cloud` |
+| **Infrastructure** | `OpenStack` · `VMware` · `Nutanix` |
+| **Editors** | `Emacs` · `VS Code` |
+
+## `~/current-quests`
+
+- **Automate the repeatable.** Build stronger infrastructure-as-code workflows with Terraform and Ansible.
+- **Go deeper into cloud native.** Explore Kubernetes and the systems behind it.
+- **Make the invisible visible.** Improve observability and understand how services behave.
+
+From C and system calls to distributed architectures, I learn by doing — and by figuring out why things work.
+
+<details>
+  <summary><strong>~/activity — GitHub profile summary</strong></summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/0xPacman">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xPacman&amp;theme=github_dark" width="820" alt="GitHub contribution summary for 0xPacman" />
+    </a>
+  </p>
+</details>
+
 ---
-
-## 🧠 Skills & Technologies
-
-### 💾 Programming Languages
-[![](https://img.shields.io/badge/Shell-Experienced-00599C.svg?style=flat&logo=linux)](https://en.wikipedia.org/wiki/Shell_script)
-[![](https://img.shields.io/badge/C-Experienced-A8B9CC.svg?style=flat&logo=C)](http://csapp.cs.cmu.edu/3e/docs/chistory.html)
-[![](https://img.shields.io/badge/C++-Experienced-00599C.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
-[![](https://img.shields.io/badge/Python-Intermediate-F0F8FF?style=flat&logo=Python)](https://www.python.org/)
-
-### ☁️ Cloud Platforms
-[![](https://img.shields.io/badge/AWS-Professional-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![](https://img.shields.io/badge/GCP-Experienced-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![](https://img.shields.io/badge/OCI-Experienced-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-[![](https://img.shields.io/badge/OpenStack-Experienced-F01742?style=flat&logo=openstack&logoColor=white)](https://www.openstack.org/)
-[![](https://img.shields.io/badge/Nutanix-Experienced-274878?style=flat&logo=nutanix&logoColor=white)](https://www.nutanix.com/)
-[![](https://img.shields.io/badge/VMware-Experienced-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
-
-### 🧰 Text Editors
-[![](https://img.shields.io/badge/Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![](https://img.shields.io/badge/Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
----
-
-## 🔭 Current Focus
-- Mastering modern infrastructure-as-code workflows with **Terraform** and **Ansible**
-- Deepening my expertise in **Kubernetes** and **observability tools**
-
----
-
-## 🧠 Always Learning
-I strongly believe in learning by doing — from C programming & system calls to distributed architectures, my journey is about staying curious and building things that matter.
-
----
-
-<!-- ##  1337 Profile
-[![ahjadani's 42 stats](https://badge.mediaplus.ma/black/ahjadani)](https://github.com/oakoudad/badge42)
--->
-<!-- Discord profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/614445495384801290)](https://discord.com/users/614445495384801290)
--->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xPacman&label=Profile%20views&color=0e75b6&style=flat" alt="0xPacman" />
+  <samp>“Programming isn’t about what you know; it’s about what you can figure out.”</samp>
+  <br /><br />
+  <sub>🟡 One more level. One more thing to learn.</sub>
 </p>

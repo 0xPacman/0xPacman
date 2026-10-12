@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">0xPacman — Ahmed, Cloud Engineer</title>
+  <desc id="desc">A dark terminal with yellow Pac-Man artwork. From system calls to cloud scale. Systems, cloud, automation. Based in Morocco.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#252b32" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 0H4" stroke="#ffffff" stroke-opacity="0.025"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="378" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="#0d1117" d="M0 0h1200v380H0z"/>
+    <path fill="#161b22" d="M0 0h1200v48H0z"/>
+    <path stroke="#30363d" d="M0 48h1200"/>
+    <g fill="#505963"><circle cx="28" cy="25" r="5"/><circle cx="48" cy="25" r="5"/><circle cx="68" cy="25" r="5"/></g>
+    <circle cx="28" cy="25" r="5" fill="#ffd43b"/>
+    <g font-family="'Courier New', monospace">
+      <text x="94" y="30" font-size="13" fill="#8b949e">pacman@cloud: ~/profile</text>
+      <text x="1148" y="30" text-anchor="end" font-size="12" fill="#8b949e">SYSTEMS / CLOUD / AUTOMATION</text>
+      <text x="48" y="100" font-size="14" fill="#ffd43b">$ whoami</text>
+      <text x="43" y="183" font-size="78" font-weight="700" letter-spacing="-4" fill="#f0f6fc">0xPacman<tspan fill="#ffd43b">_</tspan></text>
+      <text x="48" y="225" font-size="18" fill="#c9d1d9">FROM SYSTEM CALLS TO CLOUD SCALE.</text>
+      <text x="48" y="261" font-size="14" fill="#8b949e">Ahmed / Cloud Engineer / Morocco</text>
+      <rect x="48" y="302" width="226" height="30" rx="4" fill="#ffd43b"/>
+      <text x="161" y="322" text-anchor="middle" font-size="12" font-weight="700" fill="#0d1117">BUILD. UNDERSTAND. REPEAT.</text>
+      <text x="1148" y="337" text-anchor="end" font-size="11" letter-spacing="2" fill="#8b949e">INSERT CURIOSITY</text>
+    </g>
+    <path fill="url(#grid)" d="M750 49h450v265H750z"/>
+    <g fill="none" stroke="#33404e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M792 84h360v50h-66v-22h-78v42h-70v-42h-114v65h-32z"/>
+      <path d="M824 278h-32v-54h66v22h80v-27h70v59h144v-68h-66"/>
+      <path d="M1038 84v-35M1152 160v24h48M1008 278v36M882 84v-35"/>
+    </g>
+    <path d="M921 169a42 42 0 1 0 0 48l-35-24z" fill="#ffd43b"/>
+    <circle cx="888" cy="169" r="4" fill="#0d1117"/>
+    <g fill="#ffd43b"><circle cx="959" cy="193" r="4"/><circle cx="988" cy="193" r="4"/><circle cx="1017" cy="193" r="4"/></g>
+    <g transform="translate(1060 168)">
+      <path d="M0 44V22a22 22 0 0 1 44 0v22l-7-7-8 7-7-7-8 7-7-7z" fill="#8b949e"/>
+      <path d="M9 14h10v13H9zM27 14h10v13H27z" fill="#f0f6fc"/>
+      <path d="M14 18h5v7h-5zM32 18h5v7h-5z" fill="#0d1117"/>
+    </g>
+    <path fill="url(#scanlines)" d="M0 48h1200v332H0z"/>
+    <path fill="#ffd43b" d="M0 374h1200v6H0z"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="378" rx="16" fill="none" stroke="#30363d" stroke-width="2"/>
+</svg>
