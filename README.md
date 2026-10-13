@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xPacman&amp;label=Profile%20views&amp;color=ffd43b&amp;style=flat" alt="0xPacman profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0xPacman&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="0xPacman profile views" />
 </p>
 
 ## `~/about`
@@ -25,9 +25,9 @@
       <p><code>low-level curiosity → cloud-scale thinking</code></p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@702668ded64f3514754f79ea7dca89518948f628/spin.gif" width="280" alt="Animated rotating galaxy made of ASCII characters" />
+      <img src="https://cdn.jsdelivr.net/gh/0xPacman/0xPacman@cb9decc75242f5b0767ac2753ca6b3cceda767c0/assets/galaxy.gif" width="280" alt="ASCII spiral galaxy completing a smooth full revolution" />
       <br />
-      <sub>Stay curious. Keep building.</sub>
+      <sub><a href="https://ascii.rest/galaxy/">Galaxy by ascii.rest</a> · a full, seamless orbit</sub>
     </td>
   </tr>
 </table>
